@@ -3,6 +3,7 @@
 This project implements an end-to-end data warehouse using Microsoft SQL Server, covering the full data engineering lifecycle—from raw data ingestion to analytics-ready dimensional models.
 
 The solution ingests data from multiple source systems (CRM and ERP), applies data quality and transformation logic, and exposes a Gold-layer star schema optimized for analytical queries and reporting.
+
 ---
 ## Data Architecture
 
